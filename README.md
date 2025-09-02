@@ -41,8 +41,3 @@ This repository contains multiple SQL projects demonstrating practical applicati
 
 ---
 
-This repository is useful for:  
-
-- Practicing SQL from basic to advanced topics.  
-- Learning practical applications in **employee and sales data analysis**.  
-- Preparing for technical interviews or SQL assessments.
